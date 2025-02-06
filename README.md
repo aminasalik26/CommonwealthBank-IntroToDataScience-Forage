@@ -1,5 +1,4 @@
 # CommonwealthBank-IntroToDataScience-Forage
-# CommonwealthBank-IntroToDataScience-Forage
 
 ## Task 1: Data Analysis of Supermarket Transactions
 
